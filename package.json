@@ -9,6 +9,8 @@
   "author": "Juan Carlos Medina",
   "license": "MIT",
   "devDependencies": {
+    "@babel/core": "^7.0.0-beta.56",
+    "@babel/node": "^7.0.0-beta.56",
     "istanbul": "^0.4.5"
   }
 }
