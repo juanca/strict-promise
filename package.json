@@ -4,7 +4,7 @@
   "description": "Fast promises with a small but robust API.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "istanbul cover index-test.js"
   },
   "author": "Juan Carlos Medina",
   "license": "MIT",
