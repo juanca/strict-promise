@@ -12,6 +12,15 @@
     "url": "git@github.com:juanca/strict-promise.git"
   },
   "license": "MIT",
+  "keywords": [
+    "bluebird",
+    "promise",
+    "performance",
+    "promises",
+    "promises-a",
+    "promises-aplus",
+    "strict"
+  ],
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-airbnb": "^2.5.3",
