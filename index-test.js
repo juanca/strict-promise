@@ -118,7 +118,7 @@ describe('StrictPromise', () => {
     });
   });
 
-  describe('thennable', () => {
+  describe('thenable', () => {
     it('has a fulfillment callback', (done) => {
       let resolveWith;
       const message = 'fulfilled';
