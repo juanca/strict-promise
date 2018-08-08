@@ -1,6 +1,6 @@
 {
   "name": "strict-promise",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Fast promises with a small but robust API.",
   "main": "index.js",
   "scripts": {
