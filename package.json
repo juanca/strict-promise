@@ -9,6 +9,7 @@
   "author": "Juan Carlos Medina",
   "license": "MIT",
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "babel-preset-airbnb": "^2.5.3",
     "istanbul": "^0.4.5"
   },
