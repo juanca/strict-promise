@@ -4,6 +4,7 @@
   "description": "Fast promises with a small but robust API.",
   "main": "index.js",
   "scripts": {
+    "build": "babel index.js > dist/index.js",
     "test": "mocha --require babel-core/register index-test.js"
   },
   "author": "Juan Carlos Medina <juanca.med@gmail.com>",
