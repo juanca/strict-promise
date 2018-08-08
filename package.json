@@ -7,6 +7,10 @@
     "test": "mocha --require babel-core/register index-test.js"
   },
   "author": "Juan Carlos Medina <juanca.med@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:juanca/strict-promise.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
