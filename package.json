@@ -13,5 +13,7 @@
     "babel-preset-airbnb": "^2.5.3",
     "istanbul": "^0.4.5"
   },
-  "dependencies": {}
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
 }
